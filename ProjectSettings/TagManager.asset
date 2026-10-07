@@ -41,6 +41,21 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ground-Base
+    uniqueID: 200289555
+    locked: 0
+  - name: Collision
+    uniqueID: 938890787
+    locked: 0
+  - name: Artifact
+    uniqueID: 978682255
+    locked: 0
+  - name: Player
+    uniqueID: 1014285755
+    locked: 0
+  - name: Enemy
+    uniqueID: 1644588463
+    locked: 0
   m_RenderingLayers:
   - Default
   m_MigratedRenderPipelines: []
